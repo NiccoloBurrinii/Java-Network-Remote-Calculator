@@ -1,4 +1,4 @@
-# Java Network Remote Calculator
+# Java Network Remote Calculator (Verifica)
 
 Progetto Java che implementa un servizio di calcolo distribuito tramite protocollo TCP/IP, permettendo l'elaborazione di operazioni aritmetiche su un server remoto.
 
